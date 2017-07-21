@@ -1,0 +1,5 @@
+name: WarSocket
+description: Faction war socket engine
+author: _Ug
+version: 0.1
+main: decimate.WarSocket.WarSocket
